@@ -1,0 +1,14 @@
+{
+  "name": "unique-id-generator",
+  "version": "1.0.0",
+  "description": "Generator to create unique ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tim Bijnen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
